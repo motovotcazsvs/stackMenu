@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/контроль качества 1 страница.png</file>
+        <file>images/контроль качества 1 страница2.png</file>
+        <file>images/МЕНЮ Измерения 1 страница.png</file>
+        <file>images/МЕНЮ Измерения 1 страница2.png</file>
+        <file>images/МЕНЮ Калибровка 1 страница.png</file>
+        <file>images/МЕНЮ Калибровка 1 страница2.png</file>
+        <file>images/МЕНЮ Ошибка 1 страница.png</file>
+        <file>images/МЕНЮ Ошибка 1 страница2.png</file>
+        <file>images/МЕНЮ Разогрев 1 страница.png</file>
+        <file>images/МЕНЮ Разогрев 1 страница2.png</file>
+        <file>images/МЕНЮ Результаты 1 страница.png</file>
+        <file>images/МЕНЮ Результаты 1 страница2.png</file>
+        <file>images/МЕНЮ Служебные 1 страница.png</file>
+        <file>images/МЕНЮ Служебные 1 страница2.png</file>
+        <file>images/МЕНЮ Часы 1 страница.png</file>
+        <file>images/МЕНЮ Часы 1 страница2.png</file>
+    </qresource>
+</RCC>
